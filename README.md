@@ -1,5 +1,7 @@
 # 🌌 Сингулярность / Singularity
 
+![Скриншот 1](Screenshot_2026-11-10-06-19-45-51_40deb401b9ffe8e1df2f1cc5ba480b12.jpg)
+
 [Русский](#русский) | [English](#english)
 
 ---
