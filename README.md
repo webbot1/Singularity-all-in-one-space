@@ -59,6 +59,7 @@
 * **Интерпретатор Автолиспа:** Позволяет описывать чертеж кодом (лисп-программой). Пример доступен по кнопке «Пример» в интерпретаторе. При замене команд (например, `PLINE` на `LINE`) результат чертежа изменится.
 * **Свойства и Стили:** Функция **СВОЙ** изменяет свойства выделенной группы объектов. Функция **СТИЛЬ** задает стиль линии (для новых линий или для выделенной).
 
+При разработке использовались технологии искусственного интеллекта
 ---
 ---
 
@@ -115,3 +116,4 @@
 * **AutoLISP-like Interpreter:** Allows defining drawings using LISP-like programming code. A preset is available via the "Example" button. Changing commands (e.g., `PLINE` to `LINE`) yields different drawing results.
 * **Properties & Styles:** The **PROPS** function modifies properties of a selected object group. The **STYLE** function sets line styles (applies to new lines or changes currently selected ones).
 
+Artificial intelligence technologies were used during development.
